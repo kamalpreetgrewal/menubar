@@ -1,0 +1,26 @@
+body{
+  font: sans-serif;
+  font-size: 1.75em;
+  color: #00BFFF;
+  text-align:center;
+}
+
+.nav {
+  margin-top: 3em;
+  display: inline-block;
+  background: #00CED1;
+}
+
+.nav a {
+  color: #000000;
+  text-decoration: none;
+  cursor: default;
+}
+
+.nav a:hover {
+  color: #ffffff;
+}
+
+.nav ul {
+  list-style-type: none;
+}
